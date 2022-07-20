@@ -33,3 +33,9 @@ https://brunch.co.kr/@shindong/118, https://brunch.co.kr/@shindong/119
 텐핑거스에서 일 잘하는 사람의 특징이다. 여기 인재상이 나와있다고 해도 무방한 것 같다. 나는 저기서 다른 건 해당되지만 솔직한 사람인 건 솔직히 모르겠다.
 다른 사람의 의견을 비판하는 것은 잘 하지 못하는데 이 부분은 보완해야겠다.🤓
 https://www.theteams.kr/teams/7383/post/72153
+
+텐핑거스의 Kick-off회의에 대한 글이다.
+Kick-off 회의 → Preview 회의 → 서비스 출시 및 개발 일정 수립 → Sprint 1~n → Q.A → 배포라는 프로세스를 거쳐 하나의 프로젝트를 진행한다고 한다.
+또한 요즘 DMS라는 새 프로젝트에서 애자일 방법론에 대한 얘기가 많이 나왔는데 개발도 물론 중요하지만 어떻게 효율적으로 스프린트를 할 수 있을까도 중요하다.
+이 글을 읽으면서 새삼 한 번 더 방법론도 따로 공부해야겠다고 느꼈다.
+https://blog.datepop.co.kr/junior-developer-kick-off/
